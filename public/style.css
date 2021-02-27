@@ -1,0 +1,15 @@
+body {
+  font-family: 'Reggae One', cursive;
+  color: black;
+  font-weight: 400;
+  background-color: #d4594c;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+p {
+  text-align: center;
+}
